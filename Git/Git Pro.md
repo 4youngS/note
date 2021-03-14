@@ -49,8 +49,8 @@ $ git diff   //查看尚未添加到暂存区的变更
 $ git diff --staged  //查看哪些已暂存的内容会进入下一次的提交 
 $ git diff --cached  //查看当前已暂存的更改
 
-$ git commit -m 'first  commit test' //将暂存区文件提交,其它未暂存的文件依然保持着修改状态
-$ git commit -a -m 'new' //跳过暂存直接提交，直接把已跟踪的所有文件添加到暂存区然后提交，不用执行git add
+$ git commit -m 'first  commit test' //将文件提交暂存区,其它未暂存的文件依然保持着修改状态
+$ git commit -a -m 'new' //跳过add直接提交暂存，直接把已跟踪的所有文件添加到暂存区然后提交，不用执行git add
 
 $ rm ROJECT.md  //把文件从工作目录中移除
 $ git rm PROJECT.md  //把文件移除状态记录到暂存区，提交后将不存在
@@ -98,7 +98,8 @@ $ git branch //查看所有分支，当前分支前面会标一个*号
 
 ```
 $ git add Git/'Git Pro.md'
-$ git commit -m 'branch test'
-
+$ git commit -m 'branch test'  //如果要切换分支，则要保持本地目录干净全部提交暂存区，否则提示错误不能切换
+$ git commit -a -m 'new branch test'   //跳过add直接提交暂存区
+$ git checkout master //切换分支后，会看到所有修改都消失，不用担心，再切换回来时就会恢复
 ```
 
