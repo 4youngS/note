@@ -94,6 +94,11 @@ $ git checkout -b mac //创建mac分支，然后切换到mac分支,-b 相当于2
 $ git branch //查看所有分支，当前分支前面会标一个*号
 ```
 
+```
+$ git switch -c mac //创建mac分支，然后切换到mac分支
+$ git switch mac  //直接切换到已有的mac分支,即使有修改也可以
+```
+
 修改文件后提交暂存区，完成后切换分支
 
 ```
@@ -101,5 +106,11 @@ $ git add Git/'Git Pro.md'
 $ git commit -m 'branch test'  //如果要切换分支，则要保持本地目录干净全部提交暂存区，否则提示错误不能切换
 $ git commit -a -m 'new branch test'   //跳过add直接提交暂存区
 $ git checkout master //切换分支后，会看到所有修改都消失，不用担心，再切换回来时就会恢复
+```
+
+```
+$ git branch 
+$ git merge mac  //合并分支mac到当前分支master，Fast-forward快进模式
+$ git branch -d mac //删除分支
 ```
 
