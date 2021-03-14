@@ -89,6 +89,8 @@ $ git tag -a V1.0 -m "version1.0" //创建并注释标签
 
 ### Git 分支
 
+一、分支基本操作：
+
 ```
 $ git checkout -b mac //创建mac分支，然后切换到mac分支,-b 相当于2条命令$ git branch mac 和 $ git checkout mac
 $ git branch //查看所有分支，当前分支前面会标一个*号
@@ -114,5 +116,16 @@ $ git merge mac  //合并分支mac到当前分支master，Fast-forward快进模�
 $ git branch -d mac //删除分支
 ```
 
+二、解决冲突：
 
-合并分支冲突并解决
+2个分支分别各自提交暂存区后，合并操作发现冲突，打开冲突文件修改后重新提交并解决
+
+```
+$ git merge mac //分支各自提交，此时合并将报冲突
+$ git status  //寻找并固定冲突文件，手动修改解决冲突
+$ git add Git/'Git Pro.md'
+$ git commit -m 'conflict fixed' //提交已经解决的冲突文件
+$ git log  //查看冲突解决日志
+$ git branch -d mac //删除已合并分支
+```
+
