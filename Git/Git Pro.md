@@ -56,6 +56,7 @@ $ rm ROJECT.md  //把文件从工作目录中移除
 $ git rm PROJECT.md  //把文件移除状态记录到暂存区，提交后将不存在
 $ git rm -f PROJECT.md  //强制移除
 $ git rm --cache PROJECT.md  //保留文件在工作目录，但不在跟踪管理
+rm -rf .git //清除初始化文件目录即git init 命令
 
 $ git mv READ.md ROJECT //重命名文件
 
@@ -88,4 +89,9 @@ $ git tag -a V1.0 -m "version1.0" //创建并注释标签
 
 ### Git 分支
 
-你
+```
+$ git checkout -b mac //创建mac分支，然后切换到mac分支,-b 相当于2条命令$ git branch mac 和 $ git checkout mac
+$ git branch //查看所有分支，当前分支前面会标一个*号
+
+```
+
