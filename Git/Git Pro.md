@@ -99,7 +99,7 @@ $ git switch -c mac //创建mac分支，然后切换到mac分支
 $ git switch mac  //直接切换到已有的mac分支,即使有修改也可以
 ```
 
-修改文件后提交暂存区，完成后切换分支
+修改文件后提交暂存区，完成后切换分支,合并分支到主分支，然后删除
 
 ```
 $ git add Git/'Git Pro.md'
@@ -114,5 +114,5 @@ $ git merge mac  //合并分支mac到当前分支master，Fast-forward快进模�
 $ git branch -d mac //删除分支
 ```
 
-  123456789
 
+合并分支冲突并解决
