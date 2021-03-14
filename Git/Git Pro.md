@@ -114,3 +114,5 @@ $ git merge mac  //合并分支mac到当前分支master，Fast-forward快进模�
 $ git branch -d mac //删除分支
 ```
 
+  123456789
+
