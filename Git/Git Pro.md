@@ -92,6 +92,13 @@ $ git tag -a V1.0 -m "version1.0" //创建并注释标签
 ```
 $ git checkout -b mac //创建mac分支，然后切换到mac分支,-b 相当于2条命令$ git branch mac 和 $ git checkout mac
 $ git branch //查看所有分支，当前分支前面会标一个*号
+```
+
+修改文件后提交暂存区，完成后切换分支
+
+```
+$ git add Git/'Git Pro.md'
+$ git commit -m 'branch test'
 
 ```
 
