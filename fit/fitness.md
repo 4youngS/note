@@ -396,6 +396,8 @@ V柄下拉，反提高位下拉，引体向上
 
 平板杠铃卧推
 
+<img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed/git/平板杠铃卧推.png" alt="平板杠铃卧推" style="zoom: 50%;" />
+
 平板哑铃卧推
 
 器械推胸
