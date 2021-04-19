@@ -158,17 +158,33 @@ TTB（Toes to bar）
 
 窄距卧推：变量- 手臂距离，大臂是否加紧躯干
 
+![image-20210417142512444](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417142512444.png)
+
 双杠：
+
+![image-20210417142556591](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417142556591.png)
 
 臂屈伸类动作：
 
+![image-20210417143010561](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417143010561.png)
+
 无屈肩；绳索下压，直柄下压，反握直柄下压；注意全程，顶峰收缩
+
+![image-20210417143100209](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417143100209.png)
 
 略屈肩+游肘；下压
 
+![image-20210417142904578](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417142904578.png)
+
 仰卧杠铃臂屈伸
 
+![image-20210417142814778](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417142814778.png)
+
 完全屈肩状态：颈后哑铃臂屈伸，肩部要拉开灵活，肩胛骨要稳定最大程度上回旋，重量往上抬
+
+![image-20210417142702859](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417142702859.png)
+
+![image-20210417142229300](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417142229300.png)
 
 ##### 肱二头肌：
 
@@ -182,27 +198,39 @@ TTB（Toes to bar）
 
 肩胛骨稳定，处于上回旋的中立位置
 
-杠铃弯举 ：身体一半的重量，肘窝朝前，离心阶段要控制，匀速下放，不要让肩胛骨代偿
+杠铃弯举 ：身体一半的重量，肘窝朝前，离心阶段要控制，匀速下放，不要让肩胛骨代偿，屈肩幅度，胳膊夹紧躯干，
 
-屈肩幅度，胳膊夹紧躯干，
+![image-20210417152131385](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417152131385.png)
 
 曲刚弯举：直杠弯举的补充
+
+![image-20210417152210704](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417152210704.png)
 
 自然位弯举
 
 哑铃弯举：孤立全程顶峰收缩；哑铃朝外小技巧能体会肱二头收缩
 
+![image-20210417151808565](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417151808565.png)
+
 哑铃悬臂弯举：
 
+![image-20210417152311415](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417152311415.png)
+
 绳索直杠弯举
+
+![image-20210417151937062](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417151937062.png)
 
 屈肩位弯举
 
 托臂杠铃弯举：肩部前屈
 
+![image-20210417152403910](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417152403910.png)
+
 托臂哑铃弯举
 
 俯式哑铃弯举
+
+![image-20210417152516102](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417152516102.png)
 
 伸肩位弯举
 
@@ -210,11 +238,15 @@ TTB（Toes to bar）
 
 Drag curl:力量最大的弯举
 
+![image-20210417152611999](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417152611999.png)
+
 肱肌和前臂肌群
 
 重锤弯举
 
 反握绳索直杠弯举
+
+![image-20210417152729339](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417152729339.png)
 
 建议： 训练计划要全面，肱三与肱二都要练
 
@@ -224,7 +256,7 @@ Drag curl:力量最大的弯举
 
  
 
- 
+ ![image-20210417142351111](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417142351111.png)
 
  
 
@@ -256,15 +288,25 @@ Drag curl:力量最大的弯举
 
 调整：身体后仰程度，
 
+![image-20210417133800114](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417133800114.png)
+
 V柄下拉，反提高位下拉，引体向上
+
+![image-20210417140413403](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417140413403.png)
 
 俯身划船类
 
 正握俯身杠铃划船；腰椎稳定能力要求高；腰椎骨盆中立，尽量平行
 
+![image-20210417140546299](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417140546299.png)
+
 反握杠铃划船：刺激上背
 
+![image-20210417140610378](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417140610378.png)
+
 单臂哑铃划船：
+
+![image-20210417140647765](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417140647765.png)
 
 能让你最大重量，能让你最多刺激
 
@@ -272,9 +314,15 @@ V柄下拉，反提高位下拉，引体向上
 
 坐姿V柄划船：
 
+![image-20210417140733254](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417140733254.png)![image-20210417140836679](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417140836679.png)
+
 坐姿直杠正握划船-坐姿直杠反握划船-坐姿宽距对握划船
 
+
+
 直臂下拉类（孤立动作），正握，反握，绳索
+
+![image-20210417141025115](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417141025115.png)
 
 背部要很难找感觉，规范动作+积累训练量+注意力尽量放在要练的地方
 
@@ -282,15 +330,23 @@ V柄下拉，反提高位下拉，引体向上
 
 肩胛骨预先后缩，大臂顺势后伸，放胳膊先尽量让肩胛骨保持后缩状态，胳膊快伸直时肩胛骨顺势打开
 
+![image-20210417141931329](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417141931329.png)
+
 3.下斜方肌：肩胛骨预先下沉
 
 预先下沉肩胛骨，大臂顺势下拉，放胳膊先尽量让肩胛骨保持下沉状态，胳膊快伸直时肩胛骨顺势抬高
+
+![image-20210417141817821](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417141817821.png)
 
 4.腰部竖脊肌：保持腰部稳定中立位
 
 山羊挺身：腰或者髋（练臀）
 
+![image-20210417141725433](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417141725433.png)
+
 划船-山羊挺身；对深蹲硬拉更好
+
+<img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417141606844.png" alt="image-20210417141606844"  />
 
 训练建议
 
@@ -332,6 +388,8 @@ V柄下拉，反提高位下拉，引体向上
 
 杯式深蹲：自己体重的一半；错误：膝盖内扣，超脚尖，弯腰；
 
+![image-20210417162905142](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417162905142.png)
+
 杠铃深蹲：高位深蹲，重心在脚中间；肩胛骨后缩下沉，肘在杠铃下面；吸气，维持腹直肌和盆底肌紧张保持腰椎中立
 
 硬拉类
@@ -340,7 +398,11 @@ V柄下拉，反提高位下拉，引体向上
 
 剪步走：用臀而不是膝盖起来，伸髋，腰椎和骨盆在中立位；膝盖不能内扣，骨盆不能歪扭核心要稳定，膝盖要稳定
 
+![image-20210417162820892](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417162820892.png)
+
 保加利亚剪蹲：核心在于腰椎稳定，髋关节主导
+
+![image-20210417162252003](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417162252003.png)
 
 下肢绝对力量：腿举-站法，尽量全程，腰椎中立
 
@@ -354,23 +416,31 @@ V柄下拉，反提高位下拉，引体向上
 
 股四头肌孤立训练：器械腿屈伸，全程顶峰收缩
 
+![image-20210417163405199](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417163405199.png)
+
 腘绳肌起点端：直腿硬拉（孤立），腿垂直地面不锁死膝盖
+
+![image-20210417163233594](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417163233594.png)
 
 腘绳肌止端：器械腿弯举
 
+![image-20210417163300344](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417163300344.png)
+
 臀中肌：器械腿外展（孤立），治疗腿内旋，腿内扣
+
+![image-20210417162512962](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417162512962.png)
 
 小腿：提踵
 
 大腿内收肌群：器械腿内收
 
+![image-20210417162630225](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417162630225.png)
+
 男性臀腿训练建议
 
 功能动作能力；肌肉量，力量
 
- 
-
- 
+​                           ![image-20210417162724462](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417162724462.png)
 
 ### 胸部训练原理与建议
 
@@ -396,9 +466,15 @@ V柄下拉，反提高位下拉，引体向上
 
 平板杠铃卧推
 
+![image-20210417132452036](K:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20210417132452036.png)
+
 平板哑铃卧推
 
+![image-20210417132621522](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417132621522.png)
+
 器械推胸
+
+![image-20210417132714980](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417132714980.png)
 
 孤立动作：平板哑铃飞鸟，中位绳索夹胸，器械夹胸
 
@@ -406,9 +482,13 @@ V柄下拉，反提高位下拉，引体向上
 
 上斜杠铃卧推
 
+![image-20210417132845341](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417132845341.png)
+
 上斜哑铃卧推
 
 孤立动作：上斜哑铃飞鸟，低位绳索夹胸
+
+![image-20210417133243843](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417133243843.png)
 
 非常规动作：水平位内收抗阻
 
@@ -418,9 +498,17 @@ V柄下拉，反提高位下拉，引体向上
 
 高位绳索夹胸
 
+![image-20210417133128005](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417133128005.png)
+
 双杠
 
+![image-20210417133349294](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417133349294.png)
+
 下斜卧推
+
+训练计划
+
+![image-20210417133425502](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/image-20210417133425502.png)
 
 ### 肩部训练
 
