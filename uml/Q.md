@@ -1,3 +1,5 @@
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210813102238531-976748323.png)
+
 #### 设计模式分类
 
 创建型：5；  单例、抽象工厂、建造者、工厂、原型
@@ -8,7 +10,9 @@
 
 例外：并发型模式和线程池模式 
 
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210813165618350-2610489.png)
 
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210813094921863-1575793871.png)
 
 #### 设计6大原则
 
@@ -45,3 +49,5 @@
 
 
 依赖关系(Dependency)：Driver类依赖Car类的move方法，Driver--->Car
+
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210712222430201-234530119.png)
