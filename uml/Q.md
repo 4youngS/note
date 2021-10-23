@@ -30,18 +30,47 @@
 
 
 
-
 #### UML
 
-关联关系(Association)：双向关联，单向关联，自关联、多重性关联Multiplicity、
+##### 类间的关系
 
-聚合(Aggregation)：整体与部分的关系，整体对象销毁时成员对象不销毁，一般是构造函数或Set方法传入成员对象。
+6种关系； 强弱顺序： 泛化 = 实现 > 组合 > 聚合 > 关联 > 依赖。
 
-组合(Composition)：整体与部分的关系，整体对象销毁时成员对象一并销毁，一般在构造函数中创建成员对象。
+泛化关系(Generalization)：可以理解为继承，父类与子类之间，由子类指向父类；实线+三角
 
-泛化关系(Generalization)：父类与子类之间，由子类指向父类
+实现关系(Realization)：接口与实现类之间，由实现类指向接口 ，特殊的；虚线+三角
 
-实现关系(Realization)：接口与实现类之间，由实现类指向接口 
+组合(Composition)：整体与部分的关系，整体对象销毁时成员对象一并销毁，一般在构造函数中创建成员对象。constain -a，整体失去，个体也失去意义。
+
+<img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed/git/03112925-d4940d7ea7a241638d4adb5ece507fb8.jpg" alt="img" style="zoom:67%;" />
+
+聚合(Aggregation)：整体与部分的关系，整体对象销毁时成员对象不销毁，一般是构造函数或Set方法传入成员对象。has -a,各部分相对独立。
+
+<img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed/git/03112913-f3b9083cd039432081bc7574d16c035a.jpg" alt="img" style="zoom: 67%;" />
+
+关联(Association)：双向关联，单向关联，自关联、多重性关联Multiplicity、实线箭头————>
 
 
-依赖关系(Dependency)：Driver类依赖Car类的move方法，Driver--->Car
+依赖关系(Dependency)：Driver类依赖Car类的move方法，Driver--->Car，体现为返回值，参数，局部变量和静态方法的调用，是最弱的
+
+##### 用例间关系
+
+4种；关联、泛化、包含、扩展
+
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed/git/2012013015241550.png)
+
+准确的说只有3种：即泛化、包含include、扩展extend
+
+泛化可以理解为继承，指向父用例
+
+包含include可以理解为分解，即大用例分解成不同的部分用例，指向分解出来的功能用例，或者用例需要做的步骤或者前提
+
+扩展extend是功能的延伸，相当于为基础用例提供一个附加功能。
+
+<img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed/git/format,png.png" alt="img" style="zoom:67%;" /><img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed/git/Center.jpeg" alt="img" style="zoom:50%;" /><img src="/Users/sunny/Library/Application Support/typora-user-images/image-20211021171529743.png" alt="image-20211021171529743" style="zoom: 33%;" />
+
+●泛化侧重表示子用例间的互斥性；
+
+ ●包含侧重表示被包含用例对Actor提供服务的间接性；
+
+ ●扩展侧重表示扩展用例的触发不定性；
