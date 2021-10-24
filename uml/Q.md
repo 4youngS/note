@@ -1,3 +1,5 @@
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210813102238531-976748323.png)
+
 #### 设计模式分类
 
 创建型：5；  单例、抽象工厂、建造者、工厂、原型
@@ -8,7 +10,9 @@
 
 例外：并发型模式和线程池模式 
 
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210813165618350-2610489.png)
 
+![img](https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210813094921863-1575793871.png)
 
 #### 设计6大原则
 
@@ -50,8 +54,9 @@
 
 关联(Association)：双向关联，单向关联，自关联、多重性关联Multiplicity、实线箭头————>
 
-
 依赖关系(Dependency)：Driver类依赖Car类的move方法，Driver--->Car，体现为返回值，参数，局部变量和静态方法的调用，是最弱的
+
+<img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210712222430201-234530119.png" alt="img" style="zoom:67%;" />
 
 ##### 用例间关系
 
@@ -73,4 +78,5 @@
 
  ●包含侧重表示被包含用例对Actor提供服务的间接性；
 
- ●扩展侧重表示扩展用例的触发不定性；
+●扩展侧重表示扩展用例的触发不定性；
+
