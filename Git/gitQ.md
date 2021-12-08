@@ -16,7 +16,7 @@ $ git add -A  //两个功能合集，即修改+新增+删除，并全部tracked
 
 3.git pull ，取回远程主机某个分支的更新，再与本地的指定分支合并，查看冲突并解决
 
-4.git push ，提交到git本地仓库的代码推送到远程主机的某个远程分支之上
+4.git push ，提交到git本地仓库的代码推送到远程主机的某个远程分git支之上
 
 ```
 $ git status
@@ -31,8 +31,18 @@ $ git push -u origin master
 You can't push to git:// Use https://
 
 ```
-$ git remote rm origin
+$ git remote rm origin》》》
 $ git remote add origin https://github.com/
 $ git push -u origin master
+```
+
+#### git ssh 忘记密码问题
+
+```
+$ ssh-keygen -t rsa -C   "yjzzjy123@126.com"
+//重写并覆盖，同时将id_rsa.pub代码复制到github新增SSh秘钥中
+
+HTTPS转换SSH问题，本就是很简单的问题，今天因为配置的问题一直以为权限的问题，git remote -V
+区别git@github.com/？？/??.git 与git@github.com：？？/??.git的问题
 ```
 
