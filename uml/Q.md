@@ -58,6 +58,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/4youngS/imgbed@main/git/472002-20210712222430201-234530119.png" alt="img" style="zoom:67%;" />
 
+![img](../test/uml1)
+
+
+
 ##### 用例间关系
 
 4种；关联、泛化、包含、扩展

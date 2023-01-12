@@ -218,7 +218,7 @@
 
 FlyWeight
 
-InterPereter
+Interpreter
 
 Decorator
 

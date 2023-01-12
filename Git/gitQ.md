@@ -46,3 +46,18 @@ HTTPS转换SSH问题，本就是很简单的问题，今天因为配置的问题
 区别git@github.com/？？/??.git 与git@github.com：？？/??.git的问题
 ```
 
+#### git获取源码
+
+git://github.com/tuguangquan/mybatis.git
+
+https://github.com/tuguangquan/mybatis.git
+
+```
+git config user.name   //获取当前登录的用户
+git config user.email  //获取当前登录用户的邮箱
+```
+
+### 重新与git库连接
+
+
+
